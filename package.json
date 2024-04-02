@@ -1,18 +1,41 @@
 {
-  "name": "@utilcode/simple-template-advanced",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "@npmtuanmap2024/molestias-sequi-enim",
+  "version": "v1.0.0",
+  "description": "Command line option parser",
+  "main": "optist.js",
+  "dependencies": {
+    "@npmtuanmap2024/assumenda-officia-consequatur-in": "^v1.0.0",
+    "@npmtuanmap2024/commodi-neque-veritatis": "^v1.0.0",
+    "@npmtuanmap2024/eveniet-consectetur-fuga-magni": "^v1.0.0",
+    "@npmtuanmap2024/inventore-delectus-corporis": "^v1.0.0",
+    "@npmtuanmap2024/ipsam-tempora-nisi-omnis": "^v1.0.0",
+    "@npmtuanmap2024/maiores-eaque-est-tempora": "^v1.0.0",
+    "@npmtuanmap2024/psychic-dollop": "^1.0.0",
+    "@npmtuanmap2024/quos-id-labore": "^v1.0.0",
+    "@npmtuanmap2024/voluptatibus-officia-fugit": "^v1.0.0"
   },
-  "author": "",
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "keywords": [
+    "command-line",
+    "getopt",
+    "argv",
+    "parsing",
+    "parser",
+    "minimist",
+    "optimist",
+    "yargs"
+  ],
+  "author": "tuan149",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/npmtuanmap2024/molestias-sequi-enim.git"
   },
-  "dependencies": {
-    "axios": "^1.6.8"
-  }
+  "homepage": "https://github.com/npmtuanmap2024/molestias-sequi-enim/#readme",
+  "bugs": {
+    "url": "https://github.com/npmtuanmap2024/molestias-sequi-enim/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
